@@ -1,0 +1,13 @@
+.iframe{
+    border: none;
+}
+    
+::-webkit-scrollbar {
+    display: none;
+    background: transparent;
+}
+
+.iframe::-webkit-scrollbar {
+    display: none;
+    background: transparent;
+}
